@@ -1,2 +1,10 @@
-# Javascript-Crud_operation
-CRUD stands for Create, Read, Update, and Delete, which are the four basic operations used to manage data in applications. In JavaScript, CRUD operations are commonly implemented using HTML, Css, JavaScript  and APIs for data handling.  
+# JavaScript-Crud-Operation
+Form Submission Using JavaScript, CSS &amp; Html
+
+Output Screens
+
+![jsCapture](https://user-images.githubusercontent.com/66914300/131905548-df5878da-4dc5-4f24-bf49-89d3399170a1.JPG)
+
+
+![Screenshot (169)](https://user-images.githubusercontent.com/66914300/131905557-ec99cc31-20df-4704-b36f-3e44e9842a3b.png)
+
